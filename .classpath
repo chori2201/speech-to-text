@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/服部翔太/Downloads/ゼミ/java-sdk-5.5.0-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="C:/Users/服部翔太/Downloads/ゼミ/jackson-annotations-2.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/服部翔太/Downloads/ゼミ/jackson-core-2.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/服部翔太/Downloads/ゼミ/jackson-databind-2.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/服部翔太/Downloads/ゼミ/mysql-connector-java-5.1.46-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
