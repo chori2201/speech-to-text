@@ -12,7 +12,7 @@ public class SpeechtoText_main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		 SpeechToText service = new SpeechToText();
-		    service.setUsernameAndPassword("a533e845-300f-46f4-808e-49231eda55e7", "MV46byuYxPOs");
+		    service.setUsernameAndPassword("1518074", "1518074");
 		    File audio = new File("audio/ito_22e.wav");
 		    
 		    RecognizeOptions options = null;
